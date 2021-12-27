@@ -1,4 +1,4 @@
-#Setting up automated tests for the framework
+# Setting up automated tests for the framework
 os: linux
 language: php
 env:
