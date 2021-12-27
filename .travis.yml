@@ -7,7 +7,7 @@ env:
     - PHPHUNIT_VERSION=>=9.0.0
 before_install:
     - sudo apt-get update -y
-    - sudo apt-get install -y libargon2-0
+    - sudo apt-get install -y libargon2-0-dev
 jobs:
   fast_finish: true
   include:
